@@ -1,0 +1,10 @@
+Output: IPC-2581 Files
+Type  : IPC2581
+From  : PCB Document [PCB1.PcbDoc]
+   Generated File[PCB1.cvg]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 07:39:04 On 11.03.2026
